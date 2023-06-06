@@ -13,6 +13,7 @@
 <div align="center">
   <a href="https://github.com/PedroAmarante0812">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroamarante0812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 </div>
   
   <div style="display: inline_block"><br>
