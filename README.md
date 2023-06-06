@@ -35,3 +35,41 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-do-amarante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer"/>
+
+```
+   ´                                                                                    ´           ´          ´        
+                ´   ´                                                                               Sempre foi!     
+                                               ´´                                                  ´              ´     
+       -                                       ´´                                   ´   ´      :shmNNNmmmdy/           ´
+                                        ´                                                  ´-smNNNNNNNmmmmmmd/          
+                                 ´                        ´                           ´   -///+oymNNNNmmmmmmdd/         
+                  ´ ´            ´    ´                                     ´´   ´               -mNmmmdmmmdddy       ´ 
+     ´    ´           ´  ´                                                           ´           ´dyyhhoymmddho         
+ ´                                                      ´´ ´                       ´           .+yhmmmmmmmmmdh/    ´    
+              ´              ´                                   ´               ´           :syhmdshmmmmmmmdh-         
+           ´                                                                               /sohmd/+hmmdyso++++:´        
+                            ´                                               ´  ´         :s+ymmmdhyoosydhhs+/-:´-       
+                                          ´             ´            ´        ´          --hmmhoyyymmmmmmmmmmmddsssoo/.´
+                                          Espera, tudo isso é ASCII?  ´ ´     ´      ´   ´ss/+ymmmmNmmmmNmmmmdhs...:smy
+          ´                                ´     ´   ´                        ´            .-/dmNmNmmmmmmmmmmmddm/ ´:ymd
+              ´               ´                   :shmmdy+´  ´     ´      ´.-´     .´       /hydmmmysysyhhyymmhyyhomNNNm
+                        ´´                    ´  odNNNmmdds         :+syhhmNd+´           .ydhydhmmo+++syyyymdy-yodmNNNN
+                       ´                           ymmdmdho´     ´  +oo/+ssosmms.--.--/::/dhmmmmhdmhhmNmmmmmmmmsh-ohNNNN
+               ´                                 ´:ymdhddy:             ´oo/shmmmhmmmmmmmmydmmmmdmNmmmmmmmmmmmmd:-ohmmmm
+  .                                            ´/yhsdmmdhs-.             :+++odddymmmmmmmmymmmmmmmmmmmNNNNNNmmdd//ydmNNN
+                                       ´       .smohysss:-/.          ´  ´++. ..-/ssyhdhdmymmmmmdmmNNNNmmmmmmmhd:oyhmNNN
+                    ´                           +hmmmddhs+/o+s:           -            ´ohsmmmmmmdmmmmmmmddhhddho::mmNNN
+                                              ´ymmmmmdy/.o+:sdd/                       +yddmmmmmmhyhmmmddmmNNdyhs:ommNNN
+                                             ´smhhdhho+/.:omNmmd:     ´                oyydhmmmmmdydmddhhddddddds:ommNNN
+          ´                                  /ymddddd+./-/:dNmdy-.                    ´ dmmdhhmmmmhdmNNNNmmmmmmmh/:dmNNN
+         ´.      ´                      ´  ´´sdmmmmmh/...:/mNmdy´                      ´mmmmmmddmmmmmmmmNmmmmmmmm: hmNNN
+                 ´        ´               ´´.ydmmddho.´´.-/NNmds             ´  ´      ´mmmmmmmmdhdmmmNNmmmmmmmdo. :mNNN
+                                       ´ ´´ ´hmmdmdy/´´´.´-Nmmd+   ´                 ´  mmmmmmmmmmmmmmNNNmmmmmmd:  /NNNN
+                   ´          .      ´´  ´  ´mmmmmmy.     -Nmmh:                        dmmmmmmmmymmmmmmmmmmmmmd´  .mmmm
+´ ´ ´ ´    ´´´´´´´       ´´             ´´  :Nmmmmo.      -Nmmh-                     ´  ymmmmmmmh:+hdmmmNmmmmddy    hmmN
+  ´´´´      ´´  ´´´´´´´´ ´       ´  ´ ´´´  /mmmmhy-/      .mmdy´       ´                ommmmmmmddmmmmmmmmNmmdd/    /mmm
+    ´                   ´´´ ´    ´´´´´´   .hmmdy+.h+       oho´                         :mmdmmmmmmmmmmmmmmdddh+.    ´hdd
+                              ´´´´´       ommhh/sdd´                                    ´dmdmmmddmmmmmmmmmdmdhds     ´/y
+                             ´ ´´ ´    ´ -hmmy+dmdo                            ´         :dmmmhhmdmdddmmmmhmd:o.    ´ .h
+           ´                   ´        .mmNmsdmmmh                                       :ydhmmmdddmmmdhyhy:´ ´.     -m
+```
